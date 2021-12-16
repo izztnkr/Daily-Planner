@@ -39,10 +39,9 @@ SO THAT I can manage my time effectively.
 - WHEN I refresh the page THEN the saved events persist
 
   ## Links
-  [Link to deployed application](https://github.com/izztnkr) &nbsp;&nbsp;
+  [Link to deployed application](https://izztnkr.github.io/Daily-Planner/) &nbsp;&nbsp;
   
 
-![image](https://media0.giphy.com/media/lNY0a9aJgFcCaDn1nw/giphy.gif?cid=ecf05e47psgv7yleo14azmxgq6al2ofi7e84ze6604v6z3qo&rid=giphy.gif&ct=g)
   
 
 
